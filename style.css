@@ -1,8 +1,8 @@
 nav{
 border: 1px solid balck;
-font-family:
+padding: 3% ;
 
 *{
-    border: box;
+    box-sizing: border-box ;
     box-sizing: system-ui ;
 }
